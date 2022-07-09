@@ -27,8 +27,7 @@ function newElement(event){
 
     if(inputDOM.value==""  || inputDOM.value.charAt(0)==" " && inputDOM.value.charAt(inputDOM.value.length-1)==" "){
         $(".error").toast("show");
-
-        
+     
   }
 
     else{
@@ -40,7 +39,6 @@ function newElement(event){
 
         liDom.onclick=check;   
         localStorage.setItem('to do',liDom.innerHTML);
-
         var span = document.createElement("SPAN");  //yeni li'ler için span oluluşturullur ve eklenir.
         var txt = document.createTextNode("\u00D7");
         span.className = "close";
