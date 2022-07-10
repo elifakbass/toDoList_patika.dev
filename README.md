@@ -5,9 +5,9 @@
 
 ![Ekran Alıntısı4](https://user-images.githubusercontent.com/95485348/178148244-5cf0b3a7-0622-4bd4-9845-6881eaaab16e.png)
 
-##new item added
+new item added
 
 
 ![Ekran Alıntısı3](https://user-images.githubusercontent.com/95485348/178148335-401e8d14-92a2-467d-8fcb-f4cf57646d39.PNG)
 
-##item can be marked and deleted
+item can be marked and deleted
